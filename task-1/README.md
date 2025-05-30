@@ -2,6 +2,15 @@
 
 One of AWS's primary services, Amazon EC2 (Elastic Compute Cloud), enables you to operate virtual servers in the cloud. Consider it a remote computer that you can scale, start, stop, and configure as you see fit. For security reasons, not every EC2 instance in a real-world deployment is directly connected to the internet. The idea of a Bastion Host, a public EC2 instance that serves as a secure entry point to other private EC2 instances within a VPC (Virtual Private Cloud), enters the picture here.
 
+## Task 1: Accessing a Private EC2 Instance via a Bastion Host
+
+Amazon EC2 (Elastic Compute Cloud) provides scalable virtual servers in the cloud. In secure deployments, private EC2 instances are not directly exposed to the internet. 
+
+To access them securely, a **Bastion Host** (a public EC2 instance) is used. It acts as a gateway to connect to private instances within a **VPC (Virtual Private Cloud)** via SSH. 
+
+This setup enhances security by limiting external access to only the bastion while allowing internal communication with private resources.
+
+
 We put the Bastion Host in a public subnet that is linked to an Internet Gateway (IGW) in order to enable this configuration, which permits SSH access from your local computer. The target EC2 is located within a private subnet.
 
 ### 1) VPC Creation
