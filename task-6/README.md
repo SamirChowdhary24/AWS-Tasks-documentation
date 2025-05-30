@@ -30,17 +30,13 @@ By avoiding the public internet and facilitating smooth networking between apps 
 #### 8) Instance Creation
 ![WhatsApp Image 2025-05-30 at 23 06 15_48449fc8](https://github.com/user-attachments/assets/3ff3717b-0822-4543-9fb5-2d24ed628cc4)
 
-#### 8) VPC peering connection request
+#### 9) VPC peering connection request
 ![WhatsApp Image 2025-05-30 at 23 14 15_61e2440d](https://github.com/user-attachments/assets/a7b2e7bb-edad-4f63-ad51-33e0603d18d5)
 
-#### 8) VPC peering connection established
+#### 10) VPC peering connection established
 ![WhatsApp Image 2025-05-30 at 23 14 32_0c0a6d68](https://github.com/user-attachments/assets/d335053a-d9dd-4550-98bb-301ab2c662ae)
 
 
-#### 6) Establish Peering Connection
-![WhatsApp Image 2025-05-31 at 00 46 19_be94a9bd](https://github.com/user-attachments/assets/647bfa29-f53b-4df2-8dfd-160835371353)
-#### 7) Access the other instance using SSH from the first instance and vice versa
-#### instance 2 via instance 1
-![WhatsApp Image 2025-05-31 at 00 32 21_fdad36e4](https://github.com/user-attachments/assets/967e4736-32d1-4d15-9f89-acfeceb947f9)
-#### instance 1 via instance 2
-![WhatsApp Image 2025-05-31 at 00 33 49_4e4a213a](https://github.com/user-attachments/assets/0dc9cee0-2f88-4a79-bb37-d078c1323040)
+#### 11) Access the other instance using SSH from the first instance and vice versa
+![WhatsApp Image 2025-05-31 at 00 47 32_cdb7579e](https://github.com/user-attachments/assets/dbf627dc-0a08-4533-8a05-96d6f3f02040)
+
