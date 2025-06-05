@@ -30,5 +30,19 @@ To understand:
 ![WhatsApp Image 2025-06-05 at 22 44 18_cd810fb1](https://github.com/user-attachments/assets/60c2a2f8-a7d0-4a6c-921a-684c7bc87ad1)
 
 ### 6: Launch a New EC2 Instance (RHEL)
+![WhatsApp Image 2025-06-05 at 23 05 04_bacc410c](https://github.com/user-attachments/assets/47814531-b7f7-4a5f-819e-1797c21f7371)
 
+### 7: Attach the Volume (from Snapshot)
+![WhatsApp Image 2025-06-05 at 23 14 25_cb9bbe13](https://github.com/user-attachments/assets/a3231d3a-2f4e-435b-a681-f0add7b85274)
+![WhatsApp Image 2025-06-05 at 23 16 50_0fa668e5](https://github.com/user-attachments/assets/4cd89cdf-6ccd-4599-a738-55248cbd7520)
 
+### 8: Access Snapshot Data via Terminal
+- Expected output: Hello from task8-instance-1!
+![WhatsApp Image 2025-06-05 at 23 32 12_b5c87747](https://github.com/user-attachments/assets/5179331c-178e-4f90-b25c-911f36268b19)
+
+### Testing AMI Portability
+### 9: Launch a New EC2 Instance from AMI
+![image](https://github.com/user-attachments/assets/52547c71-c7ef-4b9d-8a09-e2ab1a74129e)
+
+### 10: Verify AMI-Based Instance
+![image](https://github.com/user-attachments/assets/ff105d52-fbe4-41b8-a591-4801f6a77ea2)
