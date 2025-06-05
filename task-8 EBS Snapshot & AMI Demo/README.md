@@ -17,7 +17,7 @@ To understand:
 ![WhatsApp Image 2025-06-05 at 22 32 51_5f058903](https://github.com/user-attachments/assets/214b9e60-d743-4e20-9fda-349f8acb91f5)
 
 ### 2: Connect and Add Data
-![WhatsApp Image 2025-06-05 at 22 31 06_ab7bd93e](https://github.com/user-attachments/assets/40be63a5-c07d-4bb7-b949-18b913f52db3)
+![image](https://github.com/user-attachments/assets/cb576dd1-42a4-4a12-8004-4e30a6c604eb)
 
 ### 3: Create a Snapshot of the EBS Volume
 ![WhatsApp Image 2025-06-05 at 22 37 10_80d38dd0](https://github.com/user-attachments/assets/33153e4a-573b-4166-af14-dc7d930d5307)
@@ -38,7 +38,7 @@ To understand:
 
 ### 8: Access Snapshot Data via Terminal
 - Expected output: Hello from task8-instance-1!
-![WhatsApp Image 2025-06-05 at 23 32 12_b5c87747](https://github.com/user-attachments/assets/5179331c-178e-4f90-b25c-911f36268b19)
+![image](https://github.com/user-attachments/assets/0452f17b-a2c6-4f5c-8d0c-d40b711ba9ea)
 
 ### Testing AMI Portability
 ### 9: Launch a New EC2 Instance from AMI
