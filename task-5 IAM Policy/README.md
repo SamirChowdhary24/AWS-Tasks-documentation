@@ -9,7 +9,7 @@ The following are included in this custom policy:
 - Permit: ec2:StartInstances, ec2:StopInstances  
 -  Deny: ec2:TerminateInstances  
 - Permit: ec2:DescribeInstances  
-- Actions are only valid within the us-west-1 AWS region.
+- Actions are only valid within the us-west-2 AWS region.
 
 You can protect EC2 resources from unintentional termination while preserving the ability to perform necessary instance management tasks by applying this policy to particular IAM users or roles. As a best practice in cloud access management, this method strikes a balance between *security and usability*.  
 #### IAM Policy for this task 
