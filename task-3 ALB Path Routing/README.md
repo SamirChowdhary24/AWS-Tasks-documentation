@@ -24,6 +24,7 @@ With *Path-Based Routing*, you can maintain a tidy and effective infrastructure 
 
 
 #### 4) Final result, the index.html page after alb routes the traffic to the desired instance.
+Based on the URL path in the incoming request (e.g., /app1, /app2), it forwards the request to different target groups.
 app1
 
 ![WhatsApp Image 2025-05-31 at 02 51 49_87abb820](https://github.com/user-attachments/assets/2156e644-2477-4262-8c07-bacc584c2ae5)
