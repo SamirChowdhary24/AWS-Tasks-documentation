@@ -20,8 +20,9 @@ Auto Scaling maintains high availability and responsiveness by automatically **a
 
 1. **Create an Amazon Machine Image (AMI)**  
    A snapshot of a configured EC2 instance that serves as a template to launch future instances.
-
+   The AMI is like a template. It saves your instance’s setup so new instances can launch exactly the same way when scaling happens.
 2. **Define a Launch Configuration or Launch Template**  
+   The launch template tells AWS how to launch new instances — what type, which AMI, security settings, etc.
    Specifies:  
    - Instance type  
    - AMI ID  
@@ -30,6 +31,7 @@ Auto Scaling maintains high availability and responsiveness by automatically **a
    - Other configurations
 
 3. **Create an Auto Scaling Group (ASG)**  
+   The ASG handles automatic scaling — it will launch more instances if load increases, and terminate some if load decreases.
    Configure the ASG to:  
    - Use the launch template/configuration  
    - Maintain a desired number of instances  
