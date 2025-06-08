@@ -42,6 +42,7 @@ When you want to make certain files or buckets publicly accessible (for example,
 ![WhatsApp Image 2025-06-05 at 18 38 19_29ba0548](https://github.com/user-attachments/assets/94e1c560-0646-440d-ab0e-27702c5e0b45)
 
 ### 5. Set Bucket Policy to Allow Public Access
+this policy makes all the files inside the bucket publicly readable. 
 ![WhatsApp Image 2025-06-05 at 18 51 31_a922117f](https://github.com/user-attachments/assets/cb04189d-3704-466f-8e1e-1513e5eeda9f)
 
 ### 6. Access the File via Browser
