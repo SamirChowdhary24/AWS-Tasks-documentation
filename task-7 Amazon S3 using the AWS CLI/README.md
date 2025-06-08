@@ -33,6 +33,8 @@ This repository documents my hands-on experience using the AWS CLI to interact w
 ![WhatsApp Image 2025-06-05 at 18 12 13_7cdcb0ca](https://github.com/user-attachments/assets/3201fffc-9855-4111-b199-bcd17877e238)
 
 ### 3.  Disable Public Access Block
+By default, AWS S3 blocks all public access to protect your data from being accidentally exposed. This is called the Public Access Block feature, which acts as a safety net.
+When you want to make certain files or buckets publicly accessible (for example, to share a website or allow public downloads), you need to disable the Public Access Block settings first. This unlocks the possibility for public access.
 ![WhatsApp Image 2025-06-05 at 18 30 05_ba1c5797](https://github.com/user-attachments/assets/e17ada4a-d78e-429b-a56f-4b9582278d93)
 
 ### 4. Upload a File to the Bucket
